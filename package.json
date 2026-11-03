@@ -1,0 +1,10 @@
+{
+  "name": "kvdock-vite-plugin",
+  "version": "1.0.0",
+  "description": "Vite dev server cache and proxy storage powered by kvdock",
+  "type": "module",
+  "dependencies": {
+    "kvdock": "^0.3.1"
+  },
+  "license": "MIT"
+}
